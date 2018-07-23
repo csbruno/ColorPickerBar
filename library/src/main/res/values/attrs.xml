@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorPickerBar">
+        <attr name="colorBorderSize" format="dimension" />
+        <attr name="colorRadius" format="dimension" />
+        <attr name="colorPaddingTop" format="dimension" />
+        <attr name="colorPaddingBottom" format="dimension" />
+        <attr name="colorPaddingLeft" format="dimension" />
+        <attr name="colorPaddingRight" format="dimension" />
+        <attr name="colorPadding" format="dimension" />
+        <attr name="colorSize" format="dimension"/>
+        <attr name="borderColor" format="color" />
+    </declare-styleable>
+
+</resources>
